@@ -1,6 +1,7 @@
 # some-ai-links
 
 Avii R K:
+
 https://www.youtube.com/watch?v=rkZzg7Vowao
 
 https://www.youtube.com/watch?v=_bJeKUosqoY
@@ -22,6 +23,7 @@ https://riverway.li/
 https://www.algorithm-archive.org/
 
 GitHub - kenjihiranabe/The-Art-of-Linear-Algebra: Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+
 https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra
 
 https://github.com/datascienceid/machine-learning-resources
@@ -35,6 +37,7 @@ https://ai.google/education
 I found this amazing website, it can help you keep track of recent advancements in NLP, by offering an updated list of the latest NLP research papers. 
 
 Also it provides a link to the Github repos, making it a valuable resource for ML researchers and practitioners. You can check the following link: 
+
 https://index.quantumstat.com/
 
 https://github.com/OmkarPathak/Data-Structures-using-Python
